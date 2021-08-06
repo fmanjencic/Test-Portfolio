@@ -196,7 +196,7 @@ Go to `/src/template.html` and fill your information, they are 5 sections:
   <div class="row">
     <div class="col-lg-4 col-sm-12">
       <div class="project-wrapper__text">
-        <h3 class="project-wrapper__text-title">[Project Title]</h3>
+        <h3 class="project-wrapper__text-title">Tip Calculator</h3>
         <div>
           <p class="mb-4">
             Lorem ipsum dolor sit, my project information.
